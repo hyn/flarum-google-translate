@@ -6,7 +6,7 @@ use Illuminate\Contracts\Events\Dispatcher;
 use Flarum\Core\Settings\SettingsRepository;
 use Flarum\Forum\Actions\ClientAction as ForumClientAction;
 
-class AddTrackingJs
+class AddTranslateJs
 {
     /**
      * @var SettingsRepository
