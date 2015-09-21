@@ -1,4 +1,4 @@
-<?php namespace Hyn\GoogleTranslate;
+<?php namespace Hyn\GoogleTranslate\Listeners;
 
 use Illuminate\Events\Dispatcher;
 use Flarum\Events\BuildClientView;
