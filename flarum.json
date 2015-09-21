@@ -1,0 +1,21 @@
+{
+    "name": "google-translate",
+    "title": "Google translate",
+    "description": "Offers to translate pages that are not default locale",
+    "keywords": [],
+    "version": "0.1.0",
+    "author": {
+        "name": "Daniel Klabbers",
+        "email": "daniel+flarum@klabbers.email",
+        "homepage": "http://hyn.me"
+    },
+    "license": "MIT",
+    "require": {
+        "flarum": ">=0.1.0-beta.3"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#FF9D00",
+        "color": "#FFFFFF"
+    }
+}
